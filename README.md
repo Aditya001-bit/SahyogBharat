@@ -72,4 +72,10 @@ Contributing
 5. Open a Pull Request
 
 
+Author
+
+Aditya
+GitHub: Aditya001-bit
+
+
 
