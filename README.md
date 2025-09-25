@@ -15,8 +15,8 @@ GETING STARTED :---------
 
 
 1. Clone the Repository
-git clone https://github.com/Aditya001-bit/Slidebar.git
-cd Slidebar
+git clone https://github.com/Aditya001-bit/SahyogBharat.git
+cd SahyogBharat
 
 2. Extract Assets
 
